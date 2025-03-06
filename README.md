@@ -1,4 +1,3 @@
-
 # Crime Prediction and Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.20.0-green) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-orange)
@@ -165,8 +164,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [@Divith123](https://github.com/Divith123)
-- **Email**: divithselvam23@gmail.com
+- **GitHub**: [@Divith123](https://github.com/Divith123) | [@dilanmelvin](https://github.com/dilanmelvin)
+- **Email**: divithselvam23@gmail.com | dilan4524melvin@gmail.com
 
 ---
 
