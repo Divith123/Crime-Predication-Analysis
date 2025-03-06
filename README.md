@@ -176,7 +176,3 @@ For questions or feedback, feel free to reach out:
 - Thanks to open-source libraries like Scikit-learn, Streamlit, and Pandas.
 
 ---
-
----
-
-Save this content as `README.md` in the root directory of your project. This will provide a comprehensive overview of your project and make it easier for others to understand and use your work.
